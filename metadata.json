@@ -1,0 +1,6 @@
+{
+  "name": "DexCode",
+  "description": "Cross-Platform Desktop Code Editor built on DexCode/Acode engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
